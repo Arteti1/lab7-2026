@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.idea/
+.vs/
+.vscode/
+
+# Generated output files during manual runs
+events_by_ip.txt
+src/events_by_ip.txt
+output.txt
+src/output.txt
